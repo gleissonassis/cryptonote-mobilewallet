@@ -1,0 +1,3 @@
+rootProject.name = 'cryptonoteMobilewallet'
+
+include ':app'
